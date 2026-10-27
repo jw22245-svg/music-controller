@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">音乐小组件</string>
+    <string name="widget_name">正在播放 (2x2)</string>
+    <string name="widget_desc">实时显示系统当前播放音乐封面、歌名与播放控制</string>
+    <string name="service_name">音乐小组件媒体监听服务</string>
+</resources>
